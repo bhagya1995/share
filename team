@@ -5,6 +5,7 @@ int main()
 Hello Git
 
 cout<<"This is Edited file";
+cin>>bhagya;
 return 0;
 
 }
